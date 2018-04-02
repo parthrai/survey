@@ -1,0 +1,6 @@
+{
+    "name": "parths/survey",
+    "description": "demo laravel package",
+    "minimum-stability": "dev",
+    "require": {}
+}
